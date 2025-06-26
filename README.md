@@ -51,3 +51,10 @@ Not shown: 1000 closed tcp ports (reset)
 
 ### 📷 Screenshots
 ![Running VMs](https://github.com/AAVivian/Virtual-Cybersecurity-Lab/blob/main/Running%20VMs.png)
+![Network Setting For Window](https://github.com/AAVivian/Virtual-Cybersecurity-Lab/blob/main/Network%20Setting%20for%20Windows%20VM.png)
+![Network Setting for Kali](https://github.com/AAVivian/Virtual-Cybersecurity-Lab/blob/main/Network%20Setting%20for%20Kali%20VM.png)
+![Ip Configuration on Kali](https://github.com/AAVivian/Virtual-Cybersecurity-Lab/blob/main/Ip%20address%20Configuration%20on%20Kali.png)
+![Ip Configuration for Windows]( https://github.com/AAVivian/Virtual-Cybersecurity-Lab/blob/main/VirtualBox_Windows_25_06_2025_17_24_09.png)
+![Connectivity Verification on Kali]( https://github.com/AAVivian/Virtual-Cybersecurity-Lab/blob/main/Connectivity%20Verification%20on%20Kali.png)
+![Nmap]( https://github.com/AAVivian/Virtual-Cybersecurity-Lab/blob/main/NMAP.png)
+
