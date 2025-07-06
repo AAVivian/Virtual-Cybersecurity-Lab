@@ -58,3 +58,45 @@ Not shown: 1000 closed tcp ports (reset)
 ![Connectivity Verification on Kali]( https://github.com/AAVivian/Virtual-Cybersecurity-Lab/blob/main/Connectivity%20Verification%20on%20Kali.png)
 ![Nmap]( https://github.com/AAVivian/Virtual-Cybersecurity-Lab/blob/main/NMAP.png)
 
+## 🗒️ Part II - Android Forensics Investigation
+This section of the project demonstrates foundational mobile device forensics using a sample forensoc image. The analysis was conducted using Autopsy.
+### 🔍 Objectives:
+Extracted and analyze:
+	- SMS messages
+ 	- Call logs
+  	- Contact lists
+   	- Application usage
+    	- Deleted files and browser history
+     - Generate a formal forensics report with:
+     	- Methodology
+      	- Screenshots of findings
+       	- Key evidence and recommendations
+📂 **Download the full report here**: [![Download PDF](https://github.com/AAVivian/Virtual-Cybersecurity-Lab/blob/main/Android%20Forensic%20Investigation%20-%20Vivian%20Adewale-Abiola.pdf)
+
+This PDF contains all evidence, screenshots and professional conclusions from the forensic analysis.
+
+## Part III - Virtual Firewall Implementation
+this repository contains the setup and configuration steps for simulating a basic enterprise firewall environment using **pfSense** within a virtual lab.
+## 🧰 Tool Used
+	- **VirtualBox** - for virtualizzation
+ 	- **pfSense ISO** - for firewall deployment
+  	- **Kali Linux** (Attacker VM)
+   	- **Windows 10** (Target VM)
+## 🏵 Setup Overview
+- Installed pfSense as a virtual appliance
+- Configured: -**WAN Interface** : NAT - **LAN Interface**: Internal Network
+- Connected to Kali and Windows to the pfSense LAN
+- Verified internal connectivity (ping)
+- Applied basic firewall rules to allow/block specific ports
+## 🔍 Key Highlights
+- Successfully routed all traffic through pfSense
+- Block ports to test rule enforcement
+- Captured denied traffic logs for validation
+## 📷Screenshots
+Screenshots of setup and results 
+
+## 🗒️ Summary
+This setup simulates a simplified enterprise security environment. It provides hands-on experience in:
+- Network segmentation
+- Firewall rule configuration
+- Traffic routing and logging
