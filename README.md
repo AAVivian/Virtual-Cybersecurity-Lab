@@ -94,7 +94,12 @@ this repository contains the setup and configuration steps for simulating a basi
 - Captured denied traffic logs for validation
 ## 📷Screenshots
 Screenshots of setup and results 
-
+[![Windows LAN](https://github.com/AAVivian/Virtual-Cybersecurity-Lab/blob/main/LAN%20Network%20setting%20for%20PfSense%20-%20WINDOWS.png)
+[![Kali LAN](https://github.com/AAVivian/Virtual-Cybersecurity-Lab/blob/main/LAN%20Network%20setting%20for%20PfSense%20-%20KALI.png)
+[![pfSense](https://github.com/AAVivian/Virtual-Cybersecurity-Lab/blob/main/LAN%20Network%20Setting%20for%20PfSense.png)
+[![ipconfiguration on pfSense](https://github.com/AAVivian/Virtual-Cybersecurity-Lab/blob/main/pfsense%20IPConfig.png)
+[![Firewall ICMP](https://github.com/AAVivian/Virtual-Cybersecurity-Lab/blob/main/firewal%20icmp.png)
+[![Firewall](https://github.com/AAVivian/Virtual-Cybersecurity-Lab/blob/main/firewall.png)
 ## 🗒️ Summary
 This setup simulates a simplified enterprise security environment. It provides hands-on experience in:
 - Network segmentation
